@@ -1,0 +1,3 @@
+# Local example simulation data
+examples/*.xvg
+examples/*.dat

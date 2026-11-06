@@ -49,3 +49,13 @@ Useful for plotting GROMACS molecular dynamics analysis results, including:
 ## Notes
 
 The script requires XMGrace to be installed. It can be used directly from the directory containing the input files.
+
+## Example Output
+
+The following radius of gyration (Rg) plot was generated
+using the script from GROMACS simulation data.
+
+![Radius of Gyration (Rg)](examples/rg.png)
+
+The script can be used to generate similarly formatted plots
+for RMSD, RMSF, SASA, and other simulation analysis results.
